@@ -4,7 +4,7 @@
 **Das-Boot/Das-Boot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I am Zhaoning Li!
+### I'm Zhaoning Li!
 
 - :mortar_board: Currently, I am a research assistant supervised by **Prof. Yixuan Ku** and **Prof. Yanping Liu** in [**Memory and Emotion Laboratory**](https://sysumelab.com) (**MELab**) at the Department of Psychology, **Sun Yat-Sen University** (**SYSU**, Guangzhou, China). Before joining this lab, I worked as an NLP engineer in the Department of Biomedical Artificial Intelligence at **Tianpeng Technology Co., Ltd** (Guangzhou, China). I received a B.E. degree in **Information Security** in 2016 and an M.E. degree in **Software Engineering** in 2018, both from **SYSU**.
 - :high_brightness: I aspire to make contributions to a "virtuous circle", in which shared insights into AI (especially Reinforcement Learning) as well as neuroscience and cognitive psychology will advance the development of both fields. 
