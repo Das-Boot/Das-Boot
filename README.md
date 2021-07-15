@@ -11,5 +11,5 @@
 - :high_brightness: I aspire to make contributions to a "virtuous circle", in which shared insights into AI (especially reinforcement learning) as well as neuroscience and cognitive psychology will advance the development of both fields. 
 - :bulb: Research interests: Computational neuroscience, decision neuroscience, social decision making, reinforcement learning 
 - 🌱 My CV is here: [Curriculum Vitae](https://github.com/Das-Boot/Das-Boot/blob/main/CV-Zhaoning.pdf)
-- 📫 How to reach me: WeChat(15521135552) Phone(+ (86) 15521135552) Email(lizhn7@mail2.sysu.edu.cn) 
+- 📫 How to reach me: Email(lizhn7@mail2.sysu.edu.cn) 
 - :key: Social media: [Twitter](https://twitter.com/lizhn7) [LinkedIn](https://www.linkedin.com/in/zhaoning-li-b82bb1136/) [ResearchGate](https://www.researchgate.net/profile/Zhaoning_Li2) [ORCID](https://orcid.org/0000-0002-7578-3076)
