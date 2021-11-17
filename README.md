@@ -6,7 +6,7 @@
 
 ### I'm Zhaoning Li!
 
-- 🎓 **I am a first-year PhD student working with Prof. Haiyan Wu in [**Artificial Intelligence, Neuroscience and Decision LabLaboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the University of Macau (Macau, China).**
+- 🎓 **I am a first-year PhD student working with Prof. Haiyan Wu in [**Artificial Intelligence, Neuroscience and Decision Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the University of Macau (Macau, China).**
 
   Before that, I was a research assistant supervised by **Prof. Yixuan Ku** in [**Memory and Emotion Laboratory**](https://sysumelab.com) (**MELab**) at the Department of Psychology, **Sun Yat-Sen University** (**SYSU**, Guangzhou, China). Before joining this lab, I worked as an NLP engineer in the Department of Biomedical Artificial Intelligence at **Tianpeng Technology Co., Ltd** (Guangzhou, China). 
   
