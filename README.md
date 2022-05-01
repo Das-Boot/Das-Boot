@@ -4,11 +4,15 @@
 **Das-Boot/Das-Boot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+Affective,
+Neuroscience and
+Decision-making Lab
+
 ### I'm Zhaoning!
 
-- 🎓 **I am a first-year PhD student working with [Prof. Haiyan Wu](https://www.researchgate.net/profile/Haiyan-Wu-5) in [**Artificial Intelligence, Neuroscience and Decision Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the University of Macau (Macao, China).**
+- 🎓 **I am a first-year PhD student working with [Prof. Haiyan Wu](https://www.researchgate.net/profile/Haiyan-Wu-5) in [**Affective, Neuroscience and Decision-making Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the University of Macau (Macao, China).**
 
-  Before that, I was a research assistant supervised by **Prof. Yixuan Ku** in [**Memory and Emotion Laboratory**](https://sysumelab.com) (**MELab**) at the Department of Psychology, **Sun Yat-Sen University** (**SYSU**, Guangzhou, China). Before joining this lab, I worked as an NLP engineer in the Department of Big Data and Artificial Intelligence at [**Tianpeng Technology Co., Ltd**](https://www.tp-data.com) (Guangzhou, China). 
+  Before that, I was a research assistant supervised by [**Prof. Yixuan Ku**](https://www.researchgate.net/profile/Yixuan-Ku) in [**Memory and Emotion Laboratory**](https://sysumelab.com) (**MELab**) at the Department of Psychology, **Sun Yat-Sen University** (**SYSU**, Guangzhou, China). Before joining this lab, I worked as an NLP engineer in the Department of Big Data and Artificial Intelligence at [**Tianpeng Technology Co., Ltd**](https://www.tp-data.com) (Guangzhou, China). 
   
   I received a B.E. degree in **Information Security** in 2016 and an M.E. degree in **Software Engineering** in 2018, both from **SYSU**.
 
