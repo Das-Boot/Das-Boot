@@ -4,7 +4,7 @@
 **Das-Boot/Das-Boot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I'm Zhaoning Li 李肇宁 !
+### I'm Zhaoning!
 
 - 🎓 **I am a first-year PhD student working with Prof. Haiyan Wu in [**Artificial Intelligence, Neuroscience and Decision Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the University of Macau (Macao, China).**
 
