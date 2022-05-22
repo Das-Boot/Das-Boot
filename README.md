@@ -4,10 +4,6 @@
 **Das-Boot/Das-Boot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Affective,
-Neuroscience and
-Decision-making Lab
-
 ### I'm Zhaoning!
 
 - 🎓 **I am a first-year PhD student working with [Prof. Haiyan Wu](https://www.researchgate.net/profile/Haiyan-Wu-5) in [**Affective, Neuroscience and Decision-making Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the University of Macau (Macao, China).**
