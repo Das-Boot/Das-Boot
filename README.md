@@ -17,7 +17,7 @@
   Specifically, I aspire to make contributions to a ''virtuous circle'', in which shared insights into artificial intelligence and social psychology will advance the development of both fields. 
   
   Eventually, I will try to build a theory in this area by working my ass off, despite how naive the theory is and what difficulties I will meet. As the founder of modern social psychology, Kurt Lewin said, ''There is nothing more practical than a good theory''.
-- :bulb: Research interests: Social cognition, social neuroscience, mentalising (讀心術), artificial intelligence, natural language processing
+- :bulb: Research interests: Social cognition, social neuroscience, mentalising (读心术), artificial intelligence, natural language processing
 - 🌱 My CV is here: [Curriculum Vitae](https://github.com/Das-Boot/Das-Boot/blob/main/CV-Zhaoning%20Li.pdf)
 - 📫 How to reach me: Email (yc17319@umac.mo)
 - :key: Social media: [Twitter](https://twitter.com/lizhn7) [LinkedIn](https://www.linkedin.com/in/zhaoning-li-b82bb1136/) [GoogleScholar](https://scholar.google.com/citations?user=Vr94lCUAAAAJ&hl=zh-CN) [ResearchGate](https://www.researchgate.net/profile/Zhaoning_Li2) [ORCID](https://orcid.org/0000-0002-7578-3076)
