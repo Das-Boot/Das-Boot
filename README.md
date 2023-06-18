@@ -20,6 +20,3 @@
 - 🌱 My CV is here: [Curriculum Vitae](https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_20230531.pdf)
 - 📫 How to reach me: Email (yc17319@umac.mo)
 - :key: Social media: [Twitter](https://twitter.com/lizhn7) [Mastodon](https://sciences.social/@lizhn7) [LinkedIn](https://www.linkedin.com/in/zhaoning-li-b82bb1136/) [GoogleScholar](https://scholar.google.com/citations?user=Vr94lCUAAAAJ&hl=zh-CN) [ResearchGate](https://www.researchgate.net/profile/Zhaoning_Li2) [ORCID](https://orcid.org/0000-0002-7578-3076)
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Das-Boot&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Das-boot&&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
