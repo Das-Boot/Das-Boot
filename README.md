@@ -19,7 +19,7 @@
 - :bulb: Research interests: Social cognition, social neuroscience, mentalising, artificial social intelligence
 - 🌱 My CV is available [here](https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_20230625.pdf)
 - 📫 How to reach me: Email (yc17319@umac.mo)
-- :key: Social media: [Twitter](https://twitter.com/lizhn7) [Mastodon](https://sciences.social/@lizhn7) [LinkedIn](https://www.linkedin.com/in/zhaoning-li-b82bb1136/) [GoogleScholar](https://scholar.google.com/citations?user=Vr94lCUAAAAJ&hl=zh-CN) [ResearchGate](https://www.researchgate.net/profile/Zhaoning_Li2) [ORCID](https://orcid.org/0000-0002-7578-3076)
+- :key: Social media: [Twitter](https://twitter.com/lizhn7) [Mastodon](https://sciences.social/@lizhn7) [LinkedIn](https://www.linkedin.com/in/lizhn7) [GoogleScholar](https://scholar.google.com/citations?user=Vr94lCUAAAAJ&hl=zh-CN) [ResearchGate](https://www.researchgate.net/profile/Zhaoning_Li2) [ORCID](https://orcid.org/0000-0002-7578-3076)
 ---
 ![](https://raw.githubusercontent.com/Das-Boot/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Das-Boot/github-stats/master/generated/overview.svg#gh-light-mode-only)
