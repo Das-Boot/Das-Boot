@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 <a href="https://github.com/Das-Boot"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Das-Boot?style=for-the-badge&logo=github">
-<a href="https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_20230705.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/CV-005A2B.svg?style=for-the-badge&logo=read-the-docs&color=blue">
-<a href="https://lizhaoning.academia.edu/"><img alt="Static Badge" src="https://img.shields.io/badge/HOMEPAGE-blue?style=for-the-badge&logo=Academia">
-<a href="mailto:yc17319@umac.mo"><img alt="Static Badge" src="https://img.shields.io/badge/yc17319%40umac.mo-blue?style=for-the-badge&logo=Microsoft%20Outlook">
-<a href="mailto:lizhn7@mail2.sysu.edu.cn"><img alt="Static Badge" src="https://img.shields.io/badge/lizhn7%40mail2.sysu.edu.cn-blue?style=for-the-badge&logo=Tencent%20QQ">
+<a href="https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_20230705.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/CV-005A2B.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=gray&color=blue">
+<a href="https://lizhaoning.academia.edu/"><img alt="Static Badge" src="https://img.shields.io/badge/HOMEPAGE-blue?style=for-the-badge&logo=Academia&logoColor=white&labelColor=gray&color=blue">
+<a href="mailto:yc17319@umac.mo"><img alt="Static Badge" src="https://img.shields.io/badge/yc17319%40umac.mo-blue?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&labelColor=gray&color=blue">
+<a href="https://scholar.google.com/citations?hl=en&user=Vr94lCUAAAAJ"><img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-blue?style=for-the-badge&logo=Google%20Scholar&logoColor=white&labelColor=gray&color=blue">
+<a href="https://orcid.org/0000-0002-7578-3076"><img alt="Static Badge" src="https://img.shields.io/badge/ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=gray&color=blue">
+
+
+
 <!--
 **Das-Boot/Das-Boot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
