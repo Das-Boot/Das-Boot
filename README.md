@@ -1,13 +1,10 @@
 ### Hi there 👋
-
 <a href="https://github.com/Das-Boot"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Das-Boot?style=for-the-badge&logo=github">
 <a href="https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_20230705.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/CV-005A2B.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=gray&color=blue">
-<a href="https://lizhaoning.academia.edu/"><img alt="Static Badge" src="https://img.shields.io/badge/HOMEPAGE-blue?style=for-the-badge&logo=Academia&logoColor=white&labelColor=gray&color=blue">
-<a href="mailto:yc17319@umac.mo"><img alt="Static Badge" src="https://img.shields.io/badge/yc17319%40umac.mo-blue?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&labelColor=gray&color=blue">
-<a href="https://scholar.google.com/citations?hl=en&user=Vr94lCUAAAAJ"><img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-blue?style=for-the-badge&logo=Google%20Scholar&logoColor=white&labelColor=gray&color=blue">
-<a href="https://orcid.org/0000-0002-7578-3076"><img alt="Static Badge" src="https://img.shields.io/badge/ORCID-blue?style=for-the-badge&logo=ORCID&logoColor=white&labelColor=gray&color=blue">
-
-
+<a href="https://lizhaoning.academia.edu/"><img alt="Static Badge" src="https://img.shields.io/badge/HOMEPAGE-blue?style=for-the-badge&logo=academia&logoColor=black&labelColor=gray">
+<a href="mailto:yc17319@umac.mo"><img alt="Static Badge" src="https://img.shields.io/badge/yc17319%40umac.mo-blue?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=%230072C6&labelColor=gray">
+<a href="https://scholar.google.com/citations?hl=en&user=Vr94lCUAAAAJ"><img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-blue?style=for-the-badge&logo=googlescholar&logoColor=%234D90FE&labelColor=gray">
+<a href="https://orcid.org/0000-0002-7578-3076"><img alt="Static Badge" src="https://img.shields.io/badge/ORCID-blue?style=for-the-badge&logo=ORCID&labelColor=gray">
 
 <!--
 **Das-Boot/Das-Boot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +23,11 @@
   Specifically, I aspire to make contributions to a 'virtuous circle' in which shared insights into artificial intelligence and social psychology will advance the development of both fields. 
   
 - :bulb: Research interests: Social cognition, social neuroscience, mentalising, artificial social intelligence, natural language processing
-- :key: Social media: [Twitter](https://twitter.com/lizhn7) [Mastodon](https://sciences.social/@lizhn7) [LinkedIn](https://www.linkedin.com/in/lizhn7) [GoogleScholar](https://scholar.google.com/citations?user=Vr94lCUAAAAJ&hl=zh-CN) [ResearchGate](https://www.researchgate.net/profile/Zhaoning_Li2) [ORCID](https://orcid.org/0000-0002-7578-3076)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/lizhn7"><img alt="Static Badge" src="https://img.shields.io/badge/%40lizhn7-blue?style=for-the-badge&logo=twitter&labelColor=gray">
+<a href="https://sciences.social/@lizhn7"><img alt="Static Badge" src="https://img.shields.io/badge/%40lizhn7%40sciences.social-blue?style=for-the-badge&logo=Mastodon&labelColor=gray">
+<a href="www.linkedin.com/in/lizhn7"><img alt="Static Badge" src="https://img.shields.io/badge/Zhaoning%20Li-blue?style=for-the-badge&logo=LinkedIn&labelColor=gray">
+<a href="https://www.researchgate.net/profile/Zhaoning-Li"><img alt="Static Badge" src="https://img.shields.io/badge/Zhaoning%20Li-blue?style=for-the-badge&logo=ResearchGate&labelColor=gray">
 ---
 ### Recent Research Articles
 - [**Towards human-compatible autonomous car: A study of non-verbal Turing test in automated driving with affective transition modelling**](https://www.researchgate.net/publication/370996185_Towards_human-compatible_autonomous_car_A_study_of_non-verbal_Turing_test_in_automated_driving_with_affective_transition_modelling)<details><summary>BibTeX</summary><pre>
