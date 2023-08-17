@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/Das-Boot"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Das-Boot?style=for-the-badge&logo=github">
-<a href="https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_20230722.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/CV-005A2B.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=gray&color=blue">
+<a href="https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_0816.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/CV-005A2B.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=gray&color=blue">
 <a href="https://lizhaoning.academia.edu/"><img alt="Static Badge" src="https://img.shields.io/badge/HOMEPAGE-blue?style=for-the-badge&logo=academia&logoColor=black&labelColor=gray">
 <a href="mailto:yc17319@umac.mo"><img alt="Static Badge" src="https://img.shields.io/badge/yc17319%40umac.mo-blue?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=%230072C6&labelColor=gray">
 <a href="https://scholar.google.com/citations?hl=en&user=Vr94lCUAAAAJ"><img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-blue?style=for-the-badge&logo=googlescholar&logoColor=%234D90FE&labelColor=gray">
