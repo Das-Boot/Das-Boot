@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/Das-Boot"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Das-Boot?style=for-the-badge&logo=github">
-<a href="https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_0816.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/CV-005A2B.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=gray&color=blue">
+<a href="https://nbviewer.org/github/Das-Boot/Das-Boot/blob/main/resources/CV-Zhaoning%20Li_20230912.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/CV-005A2B.svg?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=gray&color=blue">
 <a href="https://lizhaoning.academia.edu/"><img alt="Static Badge" src="https://img.shields.io/badge/HOMEPAGE-blue?style=for-the-badge&logo=academia&logoColor=black&labelColor=gray">
 <a href="mailto:yc17319@umac.mo"><img alt="Static Badge" src="https://img.shields.io/badge/yc17319%40umac.mo-blue?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=%230072C6&labelColor=gray">
 <a href="https://scholar.google.com/citations?hl=en&user=Vr94lCUAAAAJ"><img alt="Static Badge" src="https://img.shields.io/badge/Google%20Scholar-blue?style=for-the-badge&logo=googlescholar&logoColor=%234D90FE&labelColor=gray">
@@ -12,11 +12,11 @@
 ---
 ### I'm Zhaoning!
 
-- 🎓 **I am a second-year PhD student working with [Prof. Haiyan Wu](https://haiyanwu.wixsite.com/haiyanwu) in [**Affective, Neuroscience and Decision-making Laboratory**](https://andlab-um.com) (**A. N. D Lab**) in the psychology program at the University of Macau (Macao, China).**
+- 🎓 I am a second-year PhD student working with Prof. Haiyan Wu in Affective, Neuroscience and Decision-making Laboratory (A. N. D Lab) in the psychology program at the University of Macau (Macao, China).
 
-  Before that, I was a research assistant supervised by [**Prof. Yixuan Ku**](https://psy.sysu.edu.cn/teacher/851) in [**Memory and Emotion Laboratory**](https://sysumelab.com) (**MELab**) at the Department of Psychology, **Sun Yat-Sen University** (**SYSU**, Guangzhou, China). Before joining this lab, I worked as an NLP engineer in the Department of Big Data and Artificial Intelligence at [**Tianpeng Technology Co., Ltd**](https://www.tp-data.com) (Guangzhou, China). 
+  Before that, I was a research assistant supervised by Prof. Yixuan Ku in Memory and Emotion Laboratory (MELab) at the Department of Psychology, **Sun Yat-Sen University** (**SYSU**, Guangzhou, China). Before joining this lab, I worked as an NLP engineer in the Department of Big Data and Artificial Intelligence at Tianpeng Technology Co., Ltd (Guangzhou, China). 
   
-  I received a B.E. degree in **Information Security** in 2016 and an M.E. degree in **Software Engineering** in 2018, both from **SYSU**.
+  I received a B.E. degree in Information Security in 2016 and an M.E. degree in Software Engineering in 2018, both from SYSU.
 
 - :high_brightness: Enlightened by Heinrich Heine's famous quote, 'Thought precedes action, as lighting does thunder', I devoted myself to theoretical research after familiarising myself with empirical research and application. 
   
