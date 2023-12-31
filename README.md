@@ -13,17 +13,15 @@
 ---
 ### I'm Zhaoning!
 
-- 🎓 I am a second-year PhD student working with Prof. Haiyan Wu in Affective, Neuroscience and Decision-making Laboratory (A. N. D Lab) in the psychology program at the University of Macau (Macao, China).
+- 👣 I am a **second-year PhD student** working with Prof. Haiyan Wu in Affective, Neuroscience and Decision-making Laboratory (A. N. D Lab) in the psychology program at the **University of Macau** (Macao, China).
 
   Before that, I was a research assistant supervised by Prof. Yixuan Ku in Memory and Emotion Laboratory (MELab) at the Department of Psychology, **Sun Yat-Sen University** (**SYSU**, Guangzhou, China). Before joining this lab, I worked as an NLP engineer in the Department of Big Data and Artificial Intelligence at Tianpeng Technology Co., Ltd (Guangzhou, China). 
   
-  I received a B.E. degree in Information Security in 2016 and an M.E. degree in Software Engineering in 2018, both from SYSU.
+  I received a B.E. degree in **Information Security** in 2016 and an M.E. degree in **Software Engineering** in 2018, both from **SYSU**.
 
-- :high_brightness: Enlightened by Heinrich Heine's famous quote, 'Thought precedes action, as lighting does thunder', I devoted myself to theoretical research after familiarising myself with empirical research and application. 
+- 💡 Enlightened by Heinrich Heine's famous quote, '***Thought precedes action, as lighting does thunder***', I devoted myself to theoretical research after familiarising myself with empirical research and application. Specifically, I aspire to make contributions to a '**virtuous circle**' in which shared insights into **artificial intelligence** and **social psychology** will advance the development of both fields. 
   
-  Specifically, I aspire to make contributions to a 'virtuous circle' in which shared insights into artificial intelligence and social psychology will advance the development of both fields. 
-  
-- :bulb: Research interests: Social cognition, social neuroscience, mentalising, artificial social intelligence, natural language processing
+- 🌊 Research interests: **Social cognition**, **social neuroscience**, **mentalising**, **artificial social intelligence**, **natural language processing**
 
 [![Academia Bage](https://img.shields.io/badge/academia-blue?style=for-the-badge&logo=academia&logoColor=black&labelColor=gray
 )](https://umac.academia.edu/lzn)
@@ -40,7 +38,7 @@
 
 ---
 ### Recent Research Articles
-- [**Towards human-compatible autonomous car: A study of non-verbal Turing test in automated driving with affective transition modelling**](https://www.researchgate.net/publication/370996185_Towards_human-compatible_autonomous_car_A_study_of_non-verbal_Turing_test_in_automated_driving_with_affective_transition_modelling)<details><summary>BibTeX</summary><pre>
+- [**Towards human-compatible autonomous car: A study of non-verbal Turing test in automated driving with affective transition modelling**](https://spaces-cdn.owlstown.com/blobs/zbxodqip5ma9a9z04d7l54d2nyw3)<details><summary>BibTeX</summary><pre>
 @article{li2023Bot,
 &nbsp;&nbsp;author = {Li, Zhaoning and Jiang, Qiaoli and Wu, Zhengming and Liu, Anqi and Wu, Haiyan and Huang, Miner and Huang, Kai and Ku, Yixuan},
 &nbsp;&nbsp;title = {Towards human-compatible autonomous car: A study of non-verbal Turing test in automated driving with affective transition modelling}
@@ -48,7 +46,7 @@
 &nbsp;&nbsp;doi = {https://doi.org/10.1109/TAFFC.2023.3279311}
 &nbsp;&nbsp;year = {2023},
 }
-- [**Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**](https://www.researchgate.net/publication/369997471_Every_individual_makes_a_difference_A_trinity_derived_from_linking_individual_brain_morphometry_connectivity_and_mentalising_ability)<details><summary>BibTeX</summary><pre>
+- [**Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**](https://spaces-cdn.owlstown.com/blobs/afqxrllk9i6zyn87m8kaj7ofhra5)<details><summary>BibTeX</summary><pre>
 @article{li2023Trinity,
 &nbsp;&nbsp;author = {Zhaoning Li and Qunxi Dong and Bin Hu and Haiyan Wu},
 &nbsp;&nbsp;title = {Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability},
